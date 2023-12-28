@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%23FF69B4&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 
-<img src ="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg?w=360" align="right" width="300" height="300" />
+<img src ="2304.w056.n005.193B.p15.193.jpg" align="right" width="300" height="300" />
 
 <h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aya Amdouni </h1>
 
