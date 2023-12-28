@@ -1,10 +1,10 @@
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/ayaamdouni/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%23FF69B4&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%23FF69B4&height=67&duration=3000&center=true&lines=🅷🅴🆈 🆃🅷🅴🆁🅴">
 
 <img src ="2304.w056.n005.193B.p15.193.jpg" align="right" width="300" height="300" />
 
-<h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aya Amdouni </h1>
+<h1 align="left" ><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aya Amdouni </h1>
 
 <h3><samp><strong>You have finally discovered my Github profile. Please feel free to clone/fork my projects, raise issues and submit PRs if you think something could be better.</strong></samp></h3> 
 <h3><i>Happy Coding!</i> 😊</h3>
