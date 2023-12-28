@@ -20,7 +20,9 @@
 - 🛠 I’m currently learning about **MERN**🥰<br>
 - 🌱 I’m looking to: **Contribute more to Open Source projects.**
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
+- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1pTFe9ftFYl_0bZRpROr4_Ef3ScMnC-CJ/view?usp=sharing](https://drive.google.com/file/d/1pTFe9ftFYl_0bZRpROr4_Ef3ScMnC-CJ/view?usp=sharing)" >my Resume</a>
 - ✍️ Fun fact: _I like playing sudoko so much_ 😎<br>
+
 
 <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought: "Don’t cry because it’s over, smile because it happened !”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
