@@ -1,8 +1,8 @@
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/ayaamdouni/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%23FF69B4&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 
-<img src ="2304.w056.n005.193B.p15.193.jpg" align="right" width="300" height="300" />
+<img src ="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg?w=360" align="right" width="300" height="300" />
 
 <h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aya Amdouni </h1>
 
@@ -75,31 +75,23 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="left">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My stats:</b></i> 
+<img src="2304.w056.n005.193B.p15.193.jpg" width="30px" alt="Git"/>&nbsp;<i><b>🐱My stats:</b></i> 
 </p>
 
-<p align="left" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayaamdouni&theme=chartreuse-dark"  />
-</p>
- 
-<p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayaamdouni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaamdouni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<br/>
 
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 
- <br/>
-<p align="center">
-<a href="https://github.com/ayaamdouni"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayaamdouni&theme=dracula" />
-</span></a> </p>
- <br/>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 😜Here's a Joke for you:
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>**I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!**</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
