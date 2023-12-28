@@ -1,6 +1,6 @@
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/ayaamdouni/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%23FF69B4&height=67&duration=3000&center=true&lines=🅷🅴🆈 🆃🅷🅴🆁🅴">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%23FF69B4&height=67&duration=3000&center=true&lines=HEY%20THERE">
 
 <img src ="2304.w056.n005.193B.p15.193.jpg" align="right" width="300" height="300" />
 
