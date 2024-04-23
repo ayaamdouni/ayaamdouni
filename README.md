@@ -16,7 +16,7 @@
 
 - 🧠 Callme: **_She/Her_** or **_TeamWorker_** 😊 <br>
 
-- 🤔 I use daily `.python`,`MERN`
+- 🤔 I use daily `solidity`,`MERN`
 - 🛠 I’m currently learning about **MERN**🥰<br>
 - 🌱 I’m looking to: **Contribute more to Open Source projects.**
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
